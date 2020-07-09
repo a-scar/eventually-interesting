@@ -1,6 +1,6 @@
 ---
 title: Async Iterators with Deno
-date: 07-08-2020
+date: 2020-08-07
 description: "The what,how, and why behind async iterators"
 ---
 
