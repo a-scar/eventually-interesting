@@ -16,7 +16,8 @@ const BlogIndex = ({ data, location }) => {
       <Bio />
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
-        return (
+
+          return (
           <article key={node.fields.slug}>
             <header>
               <h3

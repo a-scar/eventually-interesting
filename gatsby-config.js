@@ -3,12 +3,13 @@ module.exports = {
     title: `Eventually Interesting`,
     author: {
       name: `Anthony Scardapane`,
-      summary: `just trying to do this blog right`,
+      summary: `Blog posts about technology`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
       twitter: `a_scardapane`,
+      github: `a-scar`
     },
   },
   plugins: [
